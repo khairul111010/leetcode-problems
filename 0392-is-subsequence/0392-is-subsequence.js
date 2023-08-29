@@ -4,6 +4,7 @@
  * @return {boolean}
  */
 var isSubsequence = function(s, t) {
+    if (s.length > t.length) return false
     let sIndex = 0
     let tIndex = 0
     while(sIndex < s.length && tIndex < t.length){
