@@ -23,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/khairul111010/leetcode-problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
