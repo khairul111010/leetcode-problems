@@ -11,19 +11,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0664-strange-printer](https://github.com/khairul111010/leetcode-problems/tree/master/0664-strange-printer) |
+| [2586-longest-square-streak-in-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Array
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/khairul111010/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/khairul111010/leetcode-problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Database
 |  |
@@ -52,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/khairul111010/leetcode-problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/khairul111010/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
