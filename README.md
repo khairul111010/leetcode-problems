@@ -12,11 +12,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0664-strange-printer](https://github.com/khairul111010/leetcode-problems/tree/master/0664-strange-printer) |
 | [2586-longest-square-streak-in-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/khairul111010/leetcode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Array
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/khairul111010/leetcode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/khairul111010/leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/khairul111010/leetcode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
