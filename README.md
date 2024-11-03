@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0664-strange-printer](https://github.com/khairul111010/leetcode-problems/tree/master/0664-strange-printer) |
+| [0812-rotate-string](https://github.com/khairul111010/leetcode-problems/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/khairul111010/leetcode-problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/khairul111010/leetcode-problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
