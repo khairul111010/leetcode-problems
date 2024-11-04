@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0664-strange-printer](https://github.com/khairul111010/leetcode-problems/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/khairul111010/leetcode-problems/tree/master/0812-rotate-string) |
+| [3451-string-compression-iii](https://github.com/khairul111010/leetcode-problems/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
